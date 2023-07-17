@@ -1,459 +1,459 @@
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "59965d7d12a958501713154889741521ebded95d"
+git-tree-sha1 = "d7d9c1f0828d44c9c1bd8c3d35858abf57f11fca"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SPRAL.download]]
-    sha256 = "3c918f7f148f8bca34cd575fb2c009d904d206e9a5d9332799391bfc4e39cfe6"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "3138a4f64c9e86d46985e0866c649ea35396a4bebc7e1cb1d08d23d4037f57b0"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "2629700dab6224e6093223316e9d93f945b5b94f"
+git-tree-sha1 = "bfbc55558265b4522c965e4945404b6730e609ca"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "29385c45ca3bd2f6ed8d4b8ec1500acab187cebffcf7c600945366bc55330bbb"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "c57c7e08528be33f22ae36ede0751bbc667f0af7465bbeedb93e4c3b95a2fcc4"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "1277111297b1cc41a285de1f0231e26d19ce9a62"
+git-tree-sha1 = "7c4174b10fd790d431a4fcae2f456f63fa78aa06"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "d7b1c3948c539386eb78e96a850cb5a9b094c371e1ff4e1eab597715f9e9bcc7"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "79c30c0008555743bfa4dac3b5eab6f4e14d24522e22e573e5405788331b7a79"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "1fbcd75aed92500826b35e429803a4683bb70b48"
+git-tree-sha1 = "41a729635486c95feb6a66fe3cab6af6896cc3ca"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "13f4eb91d2f915efeec7f93f58982f67ca496f48287ee84d7caf857480ca86be"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b7f1d204e88b4115e9bb83e72a1e36da365b0be2c135880016f565491ce88b1a"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "4d9f2516cc06f187f78c0780e7810a6261dd7cea"
+git-tree-sha1 = "c1f709961b7605cdfc35e2aed8cf725a5de5b7c7"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "3f1739bbc9b22ab84821abf9eee3b74a8281427206b39a8ff7c21f6ea902bd4c"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "5c213663bf7655f4831f34e3c58aeb775a24c89ac19053c9e31bb079d2f6e6bb"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-musl-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "60880fd6280e471dd8449f4533ae3f5a24a5def2"
+git-tree-sha1 = "59781d70f26d4192133368ae07ba89974848283c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "09b5482280c1c6c6a274041fa905ed1f387fd214b31db2181f1fc98526bec0f8"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "5639d0c41cef24145517df15288349d9cd736d5025204632580e252ce0efa0a5"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-musl-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "aarch64"
-git-tree-sha1 = "c35b9db28d61196e9573f5d7fb53f1463d34aac8"
+git-tree-sha1 = "691e4d690fb0a9f4f57db32a61a99cfd915dcc06"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "81d5bda28e82d4db20d770261fca76e9bcf4c4b8cb2607cb1551614bbfc7822d"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "63a80487bb183ec979737b20a54faf0c641db5a8c36feea47eac63649050a0c7"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a289f1931bd39c6c37192ed28e21d602972ffc38"
+git-tree-sha1 = "d31dc1a5874551d0c89619253396b07b31f9a179"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "dda068677c1ff576789b4ad605c78493fc5b276d910b8959c6b0cebf20fb592a"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "fd63f0a0572a99561d30314706f8d8119aa2e4f9350a3c2863c01ee451f7b760"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "001cee71bf1dcda2f6a6745def9c56281cc4afb6"
+git-tree-sha1 = "d725d3626bcc7a51c3499bab0dc56724beccfda1"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "55fed67a23bdccd13fda0461d33866f7ff6393d5acc2b6e2bf7824d8d677cc80"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "7651201ab352fd9f0bac32acf2b3102e0663782e551858886547e0774832512f"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "64b90afe0d4434bdc97ad768aac24acd6ee18229"
+git-tree-sha1 = "6027f93da9b4dec0cdddaf661527ce4969f2e62b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "9b2917d1affefa193fdb82a2c4fd6e213d2387f2b9227cc49940260750af7b97"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "32010a799718485ae186a493af36cf673511e64ca19eb2abdca8122ab475d154"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5486c9b964b3a9fab1cc37681782205b18396dca"
+git-tree-sha1 = "e629d76a0f46801c9000484d35e0a8f9749a3a53"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "c5dce3d02cd1eed4a2376f3995946329b2e4d9e277fe9e4a74f79ba976a35f00"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "5c497e78ec345adf4c4e72ecb0ffac8541b5c730198c770b0e653e96a345a787"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9c9e18bd25575f68b288bd80f7aa3353a798f2c6"
+git-tree-sha1 = "d246f707bc76bc28909300293c8bcbd5c8a07705"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "40b9be78afbd164e186fcc2f2edc603cc3ae171606de8b07eb75443f14e844a2"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "e89eb894b4df2a9aec4e43fd3b3fe37fb82725d582fb5341596ada167cbf1bc0"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d4ae2290f668d41692d42820b2760bf13db497af"
+git-tree-sha1 = "b3884e851588ad7451f6f3f2aecc51f7b519d99b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "c1d1a9a8d933af06e1d17d19fbcea603624f99ade2820a8a9654a514c9cb01a3"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "9c763aa75d1f702eea79fd88e212f327336726f58a5455bc2d643640cfc87ab6"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f7cb90272922aaafec53a59b63e8510a3b5c05f4"
+git-tree-sha1 = "00a7050f436df72b9aab073e145cd0af63ab8845"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "70dcffbf9846cf6fcf81967a0c5e6562b48734d15745e36066cb9e6bbfac2a6d"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    sha256 = "27e9cfe5810e17e668f9fa26f5e8a3095d301169504f509b318b368747d1221e"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e68196b2d054eaf3769dbad11641c0ae0bdc4446"
+git-tree-sha1 = "75e0c4fe514dac74bab4758b1e433c389b3f5d98"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "23e87c499c281b3aac252e7f5aa1beb38b420423f74fd4cf94b79d3026b58936"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    sha256 = "863c0d3d671521711e45286f0af0f804f8195f70ad044112f4375dc36a9d0731"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "992a8aa5a065f399f26d3a5396a4eb1af1a93b3c"
+git-tree-sha1 = "3931fd86bef06dcb357b4df274e8f4e63f2a4aae"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "fb2a0ddabb2443dd33b2cd42c8fb0b3fcf5b7627f7662b36bde44dd24cedd450"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    sha256 = "f792865bc376496570d86de231d6e984c513810fb5894a0d0e451feaf82281ec"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0b1b0078f05ec9c3bb1e0f47688e3d0ecfb8e66c"
+git-tree-sha1 = "3f708bd7f45e836e89301239db1c72e7c0cd27d2"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "6b2e619cb1ab1f39cac89ff01c2bffb02a49cfbbf1493da2deeb90cc754d1d4b"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    sha256 = "8ec8ede37671ea1d4ef94f861816459a18763d4ef5e8b9f8e8d10129b2ef6d2a"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8fba75ec7bc36dd50578f9f93a38a120787bdb62"
+git-tree-sha1 = "5aa66cc562c4aeb567fcd116ebe688853721493d"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "23d0fd9edfd525c021b9ce34e86273692b8b3766e4d2d0dd337e6f9c57f85ad0"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    sha256 = "55ad734731797c50e29e54a977d9ad2937469b237fccc15ea648d642c5b4a23e"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "906aa9be13de0e01426447a4d4bb386a444f637e"
+git-tree-sha1 = "d35d977ce2eba80e847802c49d84a82f1654f339"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "a576a72f896ef7e2ce9d052c8510d43978e9d97759af58ee331946ddff6ec3d6"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    sha256 = "431272e48d612b7804c3244f666f498c0c4ad0b6c86d0622d4bb1ef02c7e8c76"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "137f5a8e2e2e9a644952b02059ce76e2a218bdf9"
+git-tree-sha1 = "c89347d9dc7a51bb58dd77c447e940dadc48dde5"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "b09479d7579d1608cf62ddb31ede53412e56c9369b8aa52c7d6f069d51c8963b"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "a0198cf0ed64f551e5e7bd18f8de3bafcb6d9bf72c62b814bacd95cc9737419b"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-gnu-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "cfa709646150ea3e1689ad027d77d24dcc9d3376"
+git-tree-sha1 = "afb1555dad9dbccafb38e76a1a18b509f98a49bd"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "50bf77853cd979996637cda3e0d624afbbf7870f9931c080130309edf2497990"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "ac36b84f08b1af5d2d3bb3f33222c003d05491dd30cbb6942c45d9b40f15a7c7"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-gnu-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "6a83cfae032002790ee28cb33460da6657ef87e3"
+git-tree-sha1 = "1ac1beb23e930dcecc6068e52aefb7dfaf0cc205"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "f3855c87c58544eed6c325f78c84363f7150ebbda2ed923e2099e319f73497e5"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "b8bf21cdfbc021e6682b5ec5af803d53f3306ced11cd6b213e5a38222c0bec36"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-gnu-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "3063bf1977a275dcea5406d55946277d939d90e1"
+git-tree-sha1 = "c0bd4dddf1d012d421e7ce5b0ca586a5f3fa9e9a"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "2b3780c8b1be6acf929a088ecbbcb81f00363f64e0f09ee5cae74b3460e46573"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-musl-libgfortran3.tar.gz"
+    sha256 = "97a4af6f735cb76478bfc39cff7990d41382c0ffec000079b8408e00bfcf4bd0"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-musl-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "8abe6d103ed17b8d3d409f152c3848b89f016385"
+git-tree-sha1 = "89b5966faf17edf816588a5b638ca86abcaff483"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "95b171121a0a04c5bec719dbfb3a5db565802bc35e099bef0ec69d866a63c0bb"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-musl-libgfortran4.tar.gz"
+    sha256 = "056a78616dcc4921302584e256e38d78d7edf79a4695671d5551cef51ea7b323"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-musl-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "0ebd39701c42885c06b35510fbd63f426ee9f44c"
+git-tree-sha1 = "3d159ac81bcddfc6a1eb509fbe19b721b33dcaea"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "1bab8c81f3de60d4958ad225565fceb6302cef36904a8c42ab8232bdf791c67b"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-linux-musl-libgfortran5.tar.gz"
+    sha256 = "a28d227e43dfed31cf517b40da7bde58ddd95500d9004abbd3ca14ad4193bac3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-linux-musl-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "82b9c0a06e559a36759653a3679cdbec00575a21"
+git-tree-sha1 = "516d19bfee0a7a2ef4b6475b46a9d5ec3688b466"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "6741bb143737e4fc4d1d078253cd4db2059328a8334b3cf5e547ed9395169007"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "817bda975a499d8b5bd21c8f89bca5aab10b478e3f45c308638475a908b1b9e3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-w64-mingw32-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "a441eb4d75dc46fba7a08991ea297997a1796953"
+git-tree-sha1 = "a287e9961c161d478a1fc93854d8e29d5c1279f7"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "69467c8fcb925e4b9a9d7886e7678641906ff3d11837876c92311f7ffcfa953f"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "8841ca0619dc343510f01550e788a9b360efd2a0a9e497a8d6573ae93a8abee3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-w64-mingw32-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "i686"
-git-tree-sha1 = "66c69ff15f7ed446dd6d3d72aa9cadbfb8ab09fd"
+git-tree-sha1 = "14f9f7da61d23def555afcba35d2b02e6f2a7f49"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "12c6768a68285f67fb7ee8b5a59db8bcffbf3c525ed53aea9d61669bfa92c017"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "84409b95d59a833745af4b443f20e81e5bfac0757cad5a51b325c6e6a8077a01"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "powerpc64le"
-git-tree-sha1 = "2089542c06b9ba21acd4ef4baa92298473b6d4c4"
+git-tree-sha1 = "261140cc727c5eecab17d79bfb2f87af7299907c"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "2a8776e13e6916ee750ff393c4388ef1670c341571eec59e28fcae196a1aea4d"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "fee0c0c0ab1435f07d4c27932d8c87c302c3facc6725537f19fd928d23159c1f"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "powerpc64le"
-git-tree-sha1 = "e37e3447c69caec77cfe718b458d7efa70927ec0"
+git-tree-sha1 = "01479b4f20f069a39acdef1887f3be683d0764b3"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "b81abe98640459bdf0cf6dcf2859af8ab845249d1018b093b5d7021cebc5f63e"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "65d53ee7dde220b8b5f389578656935552361754efe75c602031661393eb8363"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "powerpc64le"
-git-tree-sha1 = "5ab41d244f76f3a00b0eaf75a464b2371f64a745"
+git-tree-sha1 = "2ba1f2b4e4d3723aa31ca81057f438e97f5bd65a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "9e60d27b7321a46c524cf8a3574aadc3529fd7d8b997056fa5ce3e7d17e514ee"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "86fad7cc9788abeeb127204471180a20431586f0a719e569a056f552ce614055"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "78bf2ea67a3d34c6c6d9c0f27e10f4975ed82137"
+git-tree-sha1 = "d2b08fbf76f4733afb1a40760dc2d9b6cdc6c63d"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[SPRAL.download]]
-    sha256 = "da9c6e8638bb9a1868a0db46b30ba421076f3f4d64fa95f0d867f270c780aa50"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-apple-darwin-libgfortran3.tar.gz"
+    sha256 = "1322b43b0f0b382ca2d9ae67fc16055519f9ea307fb84a2295f9f9de0985fdf3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "61887ae68dfd285922eb2bca224bd55aa8029b55"
+git-tree-sha1 = "bcfd5806176b8654d59ccf86b5ebe09f9d3a9ee6"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SPRAL.download]]
-    sha256 = "48aa0f5b6657d98c8f4a87fbb69f789f079312f2501c29680a949f06f6e70dff"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-apple-darwin-libgfortran4.tar.gz"
+    sha256 = "30f2f6522160c96a75d34b6901db116d0bff9df17a44495c26fac01ddfb440d0"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "03186be549138909c3742a32e0d9877a4a3fa9cf"
+git-tree-sha1 = "8a925a9986588db8c2f78ee36308487fd0236db0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SPRAL.download]]
-    sha256 = "9f8da6eb4b2e130046332c76ad55db59705e6510fe21a6f87302fe5f9ffd9ce7"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "3ef6a2e5de01ff31bd2a0cdf4018e0c273d5bd6566a763380cd0f064a39c4210"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "89db101a432f426d670bdafc8b93c5dbedb2ceec"
+git-tree-sha1 = "203ddd6e83b91375c6030790e6585a6a3c1a85e4"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "834f8ab2d1e18577d7d61496cb4cd1b8835152e779440dea00393fb6433eb59c"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "71ba08b4c57cce248fab8b1d6eac2f1d79eaccb0ca3f696fbe74d70ab9c09511"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "93c45855aac874a7141286e3c4019ce8f6fd1ac7"
+git-tree-sha1 = "b2851d255da677e7c448607e312c64f2d94297fc"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "e7be7e624ea8fa07676b34be612b8bfed4f976de6b38aa358aaf1708863a7462"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "009008ef2b26b53e3a7c1cacf8259fd9a5bce64a9f902713f5317aba750b3951"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "f70f5603c37ae7b20bd60ccd28d3429518e93419"
+git-tree-sha1 = "1d83757338f29e5766f417ed742ac6e1e7c084cf"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "4f8c4d23afe18d1fa104072c0326ef029ca28cc26238776eb2d388c43823e45e"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "16294a06b173d8b8ccc6dbd44646b4037bca740a6cf0c35a96e7c1e54cbeeaf4"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "12cbc8fbbc38f7f99450daf49d9ea4eafbfabaee"
+git-tree-sha1 = "120c06a72dfab74dfc4d411a420e1646d14cbb89"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "c34efe2ed728f683fd21484bceb0a3d35c55752fe9ee522e8a1f6191b935f393"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "cb73c70a46d84754f24fae33a9ce9d88bcb5fb6da886154c0a508feb2a876f92"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-musl-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "85b9d5a24c20ddfbca725766ddef09c4c2d22527"
+git-tree-sha1 = "bdde00fdd7214baff0f4d5c60144218774e37082"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "add56a45894dd4000e908c8c9f2fc353faa61d66dc1c38319bb51c00d2c046a8"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "3847507966979d74bb1188d8c71179e0df1823be96cdaf15d9c5cb63f831623b"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-musl-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "cb00d520d7fcb53251abe5ca2ff1ff9372b436ff"
+git-tree-sha1 = "e0d2397cd2f6ce2a88ebe37e511fd46a38d84442"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SPRAL.download]]
-    sha256 = "016c6270b2ad824d506914a17b56c667afac4493b2323c64a302103d4f03bcf2"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "04645c6a85d37004c0a3df5d911b2f72098d110c02e3f8706426bcaded06c7d3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "d9b5cd4d55292940fecd112403e69258a764462d"
+git-tree-sha1 = "310b4393782e66227590e46b9a76e5c3126c1314"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[SPRAL.download]]
-    sha256 = "be391487acabc209feeb95ae4d2ec23993440ecab572a9a08d8a66308e53eee4"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    sha256 = "6e6b65f50f1b4b067409c77fbfa1cef0313a4ebfc5dbcb59a88f143bee3f8557"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "35c8a132a51e37fe8ff4c63ebb962453fd3a1175"
+git-tree-sha1 = "0769445c569f519462bd804f71c75f67e6452cf3"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SPRAL.download]]
-    sha256 = "4884c51e941b3f02e740ce4a8f9caed1a5fa781ea2df5bfd2a988f443939506d"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "2a7b7559c88e73be3220041dae281de319dc4d888b6e8fdfd63767c46f9d1f30"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "078e65a414e8a356b364ab15a2675406e77b2898"
+git-tree-sha1 = "2f1ddadf7828bb4d39a683eb925574d8920bed58"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SPRAL.download]]
-    sha256 = "f514cec98eae7e7d49ca9e3f709337840ebae50105d3e691ca0332d9e9ec88ff"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "6edd0581c5a6468a5edd9ea5d0018e8221549454a18903b639faf720d7c17bc4"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "fabacd4aac0514681256704f8f23deefc7e6127d"
+git-tree-sha1 = "918550ff8bd8c51ee42ad76eefbbb94c0ee9296a"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "cec4f2306c9952a6f0372d693980f6f7cb48a92fdd0d585cfdcd320aa628c9c3"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "a67e4b2b7b2effbb7835b9af3ce046ab6cbc9f85f3c999671bba2cccef9eedfc"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "1ea78ebb47577f62ed21158c88f17c6d4bda1a0b"
+git-tree-sha1 = "16b7c3dbe17786b26c521ca680a313feded13fa1"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "c1fcd858ae49cb7992baff77eb617eba5d2aca40efa98a001f78e9b5c852025a"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "e850d988a29b55f2081e0194156e07655f07938ed16ae578b37499588b000270"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[SPRAL]]
 arch = "x86_64"
-git-tree-sha1 = "a33409a39e9af8109692e5ab4abab6eb79208def"
+git-tree-sha1 = "769790883d56c3bdd1a46c01544e55d7c9543031"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SPRAL.download]]
-    sha256 = "4a5216c088670057db62a1b8a8ff32fa003110573ed5baba10a3ac859e33d4aa"
-    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.3.29+0/SPRAL.v2023.3.29.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "01fca2e438e31fb790a0e71896733483b8f4091091e8c48b4a6ece9a3ed28ef3"
+    url = "https://github.com/JuliaBinaryWrappers/SPRAL_jll.jl/releases/download/SPRAL-v2023.7.4+0/SPRAL.v2023.7.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
