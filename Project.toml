@@ -1,6 +1,6 @@
 name = "SPRAL_jll"
 uuid = "319450e9-13b8-58e8-aa9f-8fd1420848ab"
-version = "2023.8.2+0"
+version = "2023.9.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
